@@ -19,3 +19,6 @@ blockquote {
   -ms-box-sizing: border-box;
   box-sizing: border-box;
 }
+.orange, .orange a {
+	color: #dc7e57;
+}
